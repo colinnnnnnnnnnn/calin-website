@@ -73,3 +73,11 @@ a {
 img {
     width: 400px;
 }
+
+button {
+    background: royalblue;
+    border: 1px solid royalblue;
+    padding: 6px 9px;
+    color: white;
+    border-radius: 5px;
+}
