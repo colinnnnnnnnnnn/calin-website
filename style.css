@@ -91,7 +91,6 @@ button {
 
 /* Second container */
 
-
 .tiny-image {
     margin-top: 20px;
     border: 3px solid #3882f6;
@@ -120,4 +119,21 @@ button {
 #third {
     font-size: 12px;
     width: 200px;
+}
+
+/* Third container */
+
+.third-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+    background-color: #e5e7eb;
+    margin-top: 30px;
+}
+
+.main3 {
+    font-size: 25px;
+    font-style: italic;
+    width: 800px;
 }
