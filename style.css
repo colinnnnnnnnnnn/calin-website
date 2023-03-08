@@ -125,6 +125,7 @@ button {
 
 .third-container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 70px;
@@ -136,4 +137,10 @@ button {
     font-size: 25px;
     font-style: italic;
     width: 800px;
+}
+
+.sub {
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 430px;
 }
