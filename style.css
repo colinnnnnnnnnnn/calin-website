@@ -91,13 +91,6 @@ button {
 
 /* Second container */
 
-.second-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 40px;
-}
 
 .tiny-image {
     margin-top: 20px;
