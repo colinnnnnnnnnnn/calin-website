@@ -112,6 +112,16 @@ button {
     display: flex;
     justify-content: center;
     gap: 30px;
+    flex-wrap: wrap;
+}
+
+#main2 {
+    font-size: 40px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
 }
 
 #third {
