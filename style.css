@@ -13,13 +13,12 @@ body {
 .header {
     display: flex;
     padding: 20px;
-    min-width: 100px;
     justify-content: space-around;
     align-items: center;
 }
 
 #logo {
-    font-size: 24px;
+    font-size: 20px;
     color: #F9FAF8;
     font-weight: bold;
 }
@@ -27,6 +26,26 @@ body {
 ul {
     list-style-type: none;
     display: flex;
-    font-size: 18px;
+    font-size: 15px;
+    color: #e5e7eb
+}
+
+li {
+    margin-left: 10px;
+}
+
+.first-container {
+    display: flex;
+}
+
+#main {
+    font-size: 35px;
+    font-weight: bolder;
+    color: #f9faf8;
+
+}
+
+#second {
+    font-size:12px;
     color: #e5e7eb
 }
