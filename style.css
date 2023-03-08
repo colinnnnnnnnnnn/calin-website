@@ -134,9 +134,11 @@ button {
 }
 
 .main3 {
+    display: flex;
     font-size: 25px;
     font-style: italic;
-    width: 800px;
+    max-width: 800px;
+    flex-wrap: wrap;
 }
 
 .sub {
